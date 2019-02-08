@@ -1,0 +1,36 @@
+{
+  "dialogues": [
+    {
+      "characterType": 1,
+      "name": "Hero",
+      "characterImageName": "Heroine_Neutral",
+      "dialogueText": "Time to address the Call to Adventure.",
+      "sceneImgs": [
+        {
+          "posX": 10.11,
+          "posY": 10.0,
+          "scale": 1.0,
+          "imgName": "wind"
+        },
+        {
+          "posX": 30.0,
+          "posY": 10.0,
+          "scale": 1.0,
+          "imgName": "water"
+        },
+        {
+          "posX": 60.0,
+          "posY": 10.0,
+          "scale": 1.0,
+          "imgName": "ice"
+        }
+      ]
+    },
+    {
+      "characterType": 0,
+      "name": "Ally",
+      "atlasImageName": "Hero_Surprised",
+      "dialogueText": "Are you sure? I might need some coffee first."
+    }
+  ]
+}
