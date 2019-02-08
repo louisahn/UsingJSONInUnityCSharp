@@ -10,4 +10,4 @@ Using JSON in Unity3D C#
 
 ##### sample json file : dialogue.json
 
-
+more examples for Newtonsoft.Json: https://gist.github.com/onionmk2/d2e3e4cca27a37a89796e084e05de212
